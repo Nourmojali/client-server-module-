@@ -1,7 +1,3 @@
-//Nour Al-deen mojali 144204
-//
-//
-//
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
